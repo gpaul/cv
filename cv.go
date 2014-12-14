@@ -10,7 +10,7 @@
 // software and never are they more stark than in distributed systems design.
 // I love that you need to work your way through distributed systems reading lists
 // and academic papers to gain insight into the field and never tire of the issues
-// raised by having multiple timelines coincide. It is really difficult, and incredibly satisying work.
+// raised by having multiple timelines coincide. It is really difficult, and incredibly satisfying work.
 //
 // My career has been quite a ride. I started working as a web developer when
 // Ruby on Rails v1.0 was still a distant dream. A high school kid working as his
