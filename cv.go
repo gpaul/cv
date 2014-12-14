@@ -156,7 +156,7 @@ func (*A_VT) Replicator() {}
 // quite a bit of javascript, although I'd rather not do that again.
 type B_ArtisanTech struct{}
 
-// I contracted for ArtisanTech from 2008 - Nov, 2011. I worked 20 hours per week in the mornings, and studied my degree in the afternoons.
+// I contracted for ArtisanTech from 2009 - Nov, 2011. I worked 20 hours per week in the mornings, and studied my degree in the afternoons.
 // I started my degree shortly before starting at ArtisanTech and finished my degree when I moved to VT.
 func (*B_ArtisanTech) Duration() {}
 
