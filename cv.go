@@ -2,7 +2,15 @@
 //
 // I'm passionate about building distributed systems using Golang and Linux.
 // If I get to run 'perf top' or 'iostat' in a day, it was a good day. If I
-// had to run both, it was a great day.
+// had to run both, it was a great day. 
+//
+// I particularly enjoy distributed
+// systems because of the similarity to discrete mathematics. The area feels untamed
+// and intuition plays a large part in designing solutions. There are always trade-offs in
+// software and never are they more stark than in distributed systems design.
+// I love that you need to work your way through distributed systems reading lists
+// and academic papers to gain insight into the field and never tire of the issues
+// raised by having multiple timelines coincide. It is really difficult, and incredibly satisying work.
 //
 // My career has been quite a ride. I started working as a web developer when
 // Ruby on Rails v1.0 was still a distant dream. A high school kid working as his
