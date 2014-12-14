@@ -53,6 +53,8 @@ const (
 	// On the web
 	Email = "gustav.paul@gmail.com"
 	Github = "http://github.com/gpaul"
+	HighestEducation = "Mathematics BSc"
+	CurrentEducation = "Applied Mathematics: Part-time honours"
 )
 
 // VT as a company provides network recording solutions to law enforcement agencies.
@@ -190,5 +192,5 @@ func (*B_ArtisanTech) Duration() {}
 // doing the relevant spamminess work such as configuring reverse dns, spf records, dkim signatures etc.
 type C_PhilosophersNotes struct{}
 
-// I worked on PhilosophersNotes
+// I worked on PhilosophersNotes from 2007 to 2009.
 func (*C_PhilosophersNotes) Duration() {}
